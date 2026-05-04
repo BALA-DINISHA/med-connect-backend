@@ -16,6 +16,7 @@ const app = express()
 // ─── CORS CONFIGURATION (UPDATED) ───────────────────────────────────────────
 // Define allowed origins for development
 const allowedOrigins = [
+ 'https://cheery-kelpie-950241.netlify.app'
   'http://localhost:5000',
   'http://localhost:3000',
   'http://localhost:4173',
